@@ -1,6 +1,8 @@
 # Xmodmap
 my Xmodmap file
 
+On recent Ubuntu, xmodmap is obsolete. Use my [xkb](https://github.com/jamcha-aa/xkb) settings.
+
 ## Modified key
 - Caps Lock to Ctrl
 - Muhenkan to Ctrl
